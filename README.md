@@ -1,4 +1,4 @@
-# DevOps Task Manager
+# DevOps Task Managers
 
 A real working Node.js + Express task management application created for a Jenkins + GitHub + AWS EC2 CI/CD project.
 
